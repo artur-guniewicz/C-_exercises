@@ -8,5 +8,8 @@ A place to insert simple C++ tasks - improving skills
 3. Tic Tac Toe - simple C++ game (not through server)
 4. Numerical operations - sum, variance, mean, least common multiple, greatest common divisor
 5. Quadratic equation (the user enters data)
+6. Bus and tram schedule
+7. Figure generator - inheritance
+8. Operations on vectors (eg. sorting)
 
 More task will be added soon.
