@@ -11,5 +11,8 @@ A place to insert simple C++ tasks - improving skills
 6. Bus and tram schedule
 7. Figure generator - inheritance
 8. Operations on vectors (eg. sorting)
+9. RPG - character classes
+10. Multimedia home - friend
+11. Operator overloading
 
 More task will be added soon.
