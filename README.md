@@ -14,5 +14,6 @@ A place to insert simple C++ tasks - improving skills
 9. RPG - character classes
 10. Multimedia home - friend
 11. Operator overloading
+12. Animal - adding new element
 
 More task will be added soon.
