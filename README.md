@@ -15,5 +15,6 @@ A place to insert simple C++ tasks - improving skills
 10. Multimedia home - friend
 11. Operator overloading
 12. Animal - adding new element
+13. Auto creator
 
 More task will be added soon.
