@@ -16,5 +16,8 @@ A place to insert simple C++ tasks - improving skills
 11. Operator overloading
 12. Animal - adding new element
 13. Auto creator
+14. Beginnings:
+    * /01. cout - first C++ program, printing text
+    * /02. cin - loading data
 
 More task will be added soon.
