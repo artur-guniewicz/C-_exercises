@@ -19,5 +19,7 @@ A place to insert simple C++ tasks - improving skills
 14. Beginnings:
     * /01. cout - first C++ program, printing text
     * /02. cin - loading data
+    * /03. variables_sizeof - listing variables and checking their size using sizeof
+    * /04. classes - use of class
 
 More task will be added soon.
